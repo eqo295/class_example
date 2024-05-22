@@ -6,6 +6,6 @@
 
 # html 변환 결과를 확인합니다
 
-- [HTML 문서 Export)](test_export.html)
-- [HTML 문서 Quarto)](test_quarto.html)
+- [HTML 문서 Export](test_export.html)
+- [HTML 문서 Quarto](test_quarto.html)
 - [HTML 문서 nbconvert](test_nbconvert.html)
